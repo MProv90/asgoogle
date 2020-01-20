@@ -1,3 +1,5 @@
+# Голосовой ассистент V 1.0
+
 import os
 import time
 import playsound
